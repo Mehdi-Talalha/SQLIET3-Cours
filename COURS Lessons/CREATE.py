@@ -17,7 +17,7 @@ cursor.execute(""" CREATE TABLE table_name (
 
 )""")
 
-# DATA TYPES ARE
+# DATA TYPES IN SQLITE are : 
 data_types = {
  
     'INTEGER' : '1, 2, 3, 4..',

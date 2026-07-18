@@ -21,7 +21,6 @@ YOU_SQLITE_COMMAND_SHOULD_BE_HERE
 
 """)
 
-
 # commit your changes
 connect.commit()
 
