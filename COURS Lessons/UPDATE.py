@@ -15,4 +15,4 @@ for elem in items:
     print(elem)
 
 connect.commit()
-connect.close()
+connect.close() 
